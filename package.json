@@ -1,0 +1,23 @@
+{
+  "name": "mpcxi",
+  "version": "1.0.0",
+  "description": "mpcXI Drum Sample Pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phaseXI-music/mpcXI.git"
+  },
+  "keywords": [
+    "akai",
+    "mpc"
+  ],
+  "author": "Tracey Ledbetter",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/phaseXI-music/mpcXI/issues"
+  },
+  "homepage": "https://github.com/phaseXI-music/mpcXI#readme"
+}
